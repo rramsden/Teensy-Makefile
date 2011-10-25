@@ -1,0 +1,10 @@
+*.hex
+*.eep
+*.elf
+*.lss
+*.lst
+*.map
+*.o
+*.sym
+.dep
+teensy_loader_cli/teensy_loader_cli
