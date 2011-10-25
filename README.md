@@ -7,18 +7,18 @@ a sample project for building and programming the Teensy 2.0 development board.
 Step-1: Install Dependencies for Compiling
 ------------------------------------------
 
-To compile C and C++ programs, you will need a collection of programs includ-
-ing avr-gcc, the avr-libc C library and avr-binutils. Installing all the required
-pieces separately can be difficult. Fortunately, there are complete, easy to in-
-stall packages for all major platforms.
+To compile C and C++ programs, you will need a collection of programs including 
+avr-gcc, the avr-libc C library and avr-binutils. Installing all the required
+pieces separately can be difficult. Fortunately, there are complete, easy to 
+install packages for all major platforms.
 
-=Macintosh OS X
+**Macintosh OS X**
 http://www.obdev.at/products/avrmacpack/download.html
 
-=Linux, Ubuntu
+**Linux, Ubuntu**
 sudo apt-get install gcc-avr binutils-avr avr-libc
 
-=Windows
+**Windows**
 http://winavr.sourceforge.net/download.html
 
 Step-2: Compiling and Programming
